@@ -12,5 +12,11 @@ link
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/1.PNG)  
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/2.PNG)  
 ## Hardware
+* WE-I Plus
+* ARC iotdk board
+* AT9S RC control
+* R9DS Radiolink
+* QAV250 quad frame
+* Ultrasonic sensor HC-SR04
 ## User Guide
 
