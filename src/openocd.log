@@ -1,0 +1,42 @@
+Warn : deprecated option: -p/--pipe. Use '-c "gdb_port pipe; log_output openocd.log"' instead.
+adapter speed: 8000 kHz
+Info : clock speed 8000 kHz
+Info : JTAG tap: arc-em.cpu tap/device found: 0x200444b1 (mfg: 0x258, part: 0x0044, ver: 0x2)
+Info : JTAG tap: arc-em.cpu tap/device found: 0x200444b1 (mfg: 0x258, part: 0x0044, ver: 0x2)
+target state: halted
+Info : accepting 'gdb' connection from pipe
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60115). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60011). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60004). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60001). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60009). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60014). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60004). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60014). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60005). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60002). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60005). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60010). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60002). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60001). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60002). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60013). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60000). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60000). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60011). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60008). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60013). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60014). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60003). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60003). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60001). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60007). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60015). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60001). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60001). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60011). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60000). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60000). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60005). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60005). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000ms timelimit. GDB alive packet not sent! (60004). Workaround: increase "set remotetimeout" in GDB
