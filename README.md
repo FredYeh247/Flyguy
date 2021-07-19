@@ -9,6 +9,8 @@ The Himax imaging camera on the WE-I development board can capture images of the
 ## Demo Video
 link
 ## System Architecture
+![image] (https://github.com/U3807/FLyguy/blob/main/Pics/1.PNG)
+![image] (https://github.com/U3807/FLyguy/blob/main/Pics/2.PNG)
 ## Hardware
 ## User Guide
 
