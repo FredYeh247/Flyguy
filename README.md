@@ -18,5 +18,6 @@ link
 * Radiolink : R9DS
 * Ultrasonic sensor : HC-SR04
 * Quad frame : QAV250
+* Electronic Speed Control: BLHeli-32
 ## User Guide
 
