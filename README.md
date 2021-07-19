@@ -1,4 +1,3 @@
-# FLyguy  
-## Programmable UAV  
+# FLyguy-Programmable UAV  
 ## Introduction  
 
