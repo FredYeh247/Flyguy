@@ -6,7 +6,9 @@ To enable common features such as hovering, landing, emergency shut down, we wil
 
 The Himax imaging camera on the WE-I development board can capture images of the UAV’s surroundings and feed them into a CNN model, enabling obstacle avoidance and autonomously track moving targets. 
 
-#Demo Video
+## Demo Video
 link
-#System Architecture
+## System Architecture
+## Hardware
+## User Guide
 
