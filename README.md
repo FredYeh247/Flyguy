@@ -19,5 +19,6 @@ link
 * Ultrasonic sensor : HC-SR04
 * Quad frame : QAV250
 * Electronic Speed Control: BLHeli-32
+* Motor : Velox V2306
 ## User Guide
 
