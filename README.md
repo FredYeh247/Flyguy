@@ -30,7 +30,7 @@ The Himax imaging camera on the WE-I development board can capture images of the
 * Toolchain: ```Metaware or GNU```
 * Type ```make flash``` on linux environment terminal to generate image file from compiled source code
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/make_flash.PNG)  
-* Burn the image file into Himax WEI Board with Teraterm
+* Burn the image file into Himax WEI Board with Teraterm  
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/burn.PNG)  
 * Press Reset button to inference on Himax WE-I Board and the predicted direction will show on teraterm terminal
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/predicted.PNG) 
