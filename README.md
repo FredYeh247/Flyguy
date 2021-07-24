@@ -11,7 +11,7 @@ link
 ## System Architecture
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/1.PNG)  
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/2.PNG)  
-## Hardware
+## Required Hardware
 * Main controller : ARC iotdk board
 * Object detection board : WE-I Plus
 * RC controller : AT9S 
