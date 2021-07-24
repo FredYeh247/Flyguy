@@ -23,5 +23,5 @@ link
 ## Required Software
 * <https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp/tree/embarc_mli>
 * <https://github.com/HimaxWiseEyePlus/himax_tflm#training-your-own-model>
-## User Guide
+## User Manual
 
