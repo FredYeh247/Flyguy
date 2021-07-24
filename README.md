@@ -23,17 +23,14 @@ The Himax imaging camera on the WE-I development board can capture images of the
 ## Required Software
 * <https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp/tree/embarc_mli>
 * <https://github.com/HimaxWiseEyePlus/himax_tflm#training-your-own-model>
-## User Manual for himax board
 * Download source code from the link above
 * Put our folder Gesture and folder Person_detection in ``` himax_tflm\Synopsys_WEI\User_Project\```
-* Use any tool which supports ```$make``` Command 
-* Toolchain: ```Metaware or GNU```
-* Type ```make flash``` on linux environment terminal to generate image file from compiled source code
-![image](https://github.com/U3807/FLyguy/blob/main/Pics/make_flash.PNG)  
-* Burn the image file into Himax WEI Board with Teraterm  
-![image](https://github.com/U3807/FLyguy/blob/main/Pics/burn.PNG)  
+## User Manual 
+## Gesture data collection and training
+* Collect pictures from himax camera for training datasets in ``` himax_tflm\Synopsys_WEI\User_Project\Camera```
+* Press B on keyboard and the pixel value of taken picture will show on the teraterm terminal
+* Save those pixel value in ```Python\Dataset\xxx.txt```
+* Start training in ```Python\training``` and burn the tensorflow_lite model in the himax board   
 * Press reset button to inference on Himax WE-I Board and the predicted direction will show on teraterm terminal  
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/predicted.PNG) 
-* Users can take more pictures from Himax camerafor provided dataset or change our model architecture in ``` \python\``` 
-* 
 
