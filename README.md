@@ -34,5 +34,6 @@ The Himax imaging camera on the WE-I development board can capture images of the
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/burn.PNG)  
 * Press reset button to inference on Himax WE-I Board and the predicted direction will show on teraterm terminal  
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/predicted.PNG) 
-* Users can change our model architecture in ``` \python\training.ipynb``` 
+* Users can take more pictures from Himax camerafor provided dataset or change our model architecture in ``` \python\``` 
+* 
 
