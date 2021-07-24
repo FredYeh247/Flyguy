@@ -28,6 +28,7 @@ The Himax imaging camera on the WE-I development board can capture images of the
 * Put our folder Gesture and folder Person_detection in ``` himax_tflm\Synopsys_WEI\User_Project\```
 * Use any tool which supports ```$make``` Command 
 * Toolchain: ```Metaware or GNU```
-* 
+* Type ```make flash``` on linux environment terminal to generate image file from compiled source code
+* Burn the image file into Himax WEI Board with Teraterm
 
 
