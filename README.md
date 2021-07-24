@@ -27,9 +27,9 @@ The Himax imaging camera on the WE-I development board can capture images of the
 * Put our folder Gesture and folder Person_detection in ``` himax_tflm\Synopsys_WEI\User_Project\```
 ## User Manual 
 ## Gesture data collection and training
-* Collect pictures from himax camera for training datasets in ``` himax_tflm\Synopsys_WEI\User_Project\Camera```
+* Collect pictures from himax camera for machine learning datasets in  ``` himax_tflm\Synopsys_WEI\User_Project\Camera```
 * Press B on keyboard and the pixel value of taken picture will show on the teraterm terminal
-* Save those pixel value in ```Python\Dataset\xxx.txt```
+* Save those printed value in terminal and save as  ```Python\Dataset\xxx.txt```
 * Start training in ```Python\training``` and burn the tensorflow_lite model in the himax board   
 * Press reset button to inference on Himax WE-I Board and the predicted direction will show on teraterm terminal  
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/predicted.PNG) 
