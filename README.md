@@ -30,6 +30,6 @@ The Himax imaging camera on the WE-I development board can capture images of the
 * Toolchain: ```Metaware or GNU```
 * Type ```make flash``` on linux environment terminal to generate image file from compiled source code
 * Burn the image file into Himax WEI Board with Teraterm
- <https://github.com/U3807/FLyguy/blob/main/Pics/burn.PNG>
+![image](https://github.com/U3807/FLyguy/blob/main/Pics/burn.PNG)  
 
 
