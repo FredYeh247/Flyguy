@@ -26,7 +26,8 @@ The Himax imaging camera on the WE-I development board can capture images of the
 ## User Manual for himax board
 * Download source code from the link above
 * Put our folder Gesture and folder Person_detection in ``` himax_tflm\Synopsys_WEI\User_Project\```
-* Use any tool which supports ```$make```  command Toolchain: ```Metaware or GNU```
+* Use any tool which supports ```$make``` Command 
+* Toolchain: ```Metaware or GNU```
 * 
 
 
