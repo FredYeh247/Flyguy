@@ -33,4 +33,8 @@ The Himax imaging camera on the WE-I development board can capture images of the
 * Start training in ```Python\training``` and burn the tensorflow_lite model in the himax board   
 * Press reset button to inference on Himax WE-I Board and the predicted direction will show on teraterm terminal  
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/predicted.PNG) 
+## Peson detection and take photo
+* Setup the radio connection
+* Run the code in ```Python\sendpic```
+* If Himax WE-Iborad detect a person's face, the person's picture will be send through UART and displayed on screen 
 
