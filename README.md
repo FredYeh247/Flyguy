@@ -23,5 +23,6 @@ The Himax imaging camera on the WE-I development board can capture images of the
 ## Required Software
 * <https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp/tree/embarc_mli>
 * <https://github.com/HimaxWiseEyePlus/himax_tflm#training-your-own-model>
-## User Manual
-
+## User Manual for himax board
+* Download source code from the link above
+* Put our folder Gesture in ``` himax_tflm\Synopsys_WEI\User_Project\```
