@@ -25,5 +25,5 @@ The Himax imaging camera on the WE-I development board can capture images of the
 * <https://github.com/HimaxWiseEyePlus/himax_tflm#training-your-own-model>
 ## User Manual for himax board
 * Download source code from the link above
-* Put our folder Gesture in ` himax_tflm\Synopsys_WEI\User_Project\`
+* Put our folder Gesture and folder Person_detection in ` himax_tflm\Synopsys_WEI\User_Project\`
 
