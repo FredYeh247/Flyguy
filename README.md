@@ -27,14 +27,14 @@ We leverage this exceptional advantages to implement an intelligent UAV, which c
 * Download source code from the link above
 * Put our folder Gesture and folder Person_detection in ``` himax_tflm\Synopsys_WEI\User_Project\```
 ## User Manual 
-## Gesture data collection and training
+### Gesture data collection and training
 * Collect pictures from himax camera for machine learning datasets in  ``` himax_tflm\Synopsys_WEI\User_Project\Camera```
 * Press B on keyboard and the pixel value of taken picture will show on the teraterm terminal
 * Save those printed value in terminal and save as  ```Python\Dataset\xxx.txt```
 * Start training in ```Python\training``` and burn the tensorflow_lite model in the himax board   
 * Press reset button to inference on Himax WE-I Board and the predicted direction will show on teraterm terminal  
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/predicted.PNG) 
-## Peson detection and take photo
+### Peson detection and take photo
 * Setup the radio connection
 * Run the code in ```Python\sendpic```
 * If Himax WE-Iborad detect a person's face, the person's picture will be send through UART and displayed on screen 
