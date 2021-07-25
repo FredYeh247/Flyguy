@@ -25,7 +25,7 @@ We leverage this exceptional advantages to implement an intelligent UAV, which c
 * <https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp/tree/embarc_mli>
 * <https://github.com/HimaxWiseEyePlus/himax_tflm#training-your-own-model>
 * Download source code from the link above
-* Put our folder Gesture and folder Person_detection in ``` himax_tflm\Synopsys_WEI\User_Project\```
+* Put our folder Gesture_detection and folder Person_detection_photo_take in ``` himax_tflm\Synopsys_WEI\User_Project\```
 ## User Manual 
 ### Gesture data collection and training
 * Collect pictures from himax camera for machine learning datasets in  ``` himax_tflm\Synopsys_WEI\User_Project\Camera```
