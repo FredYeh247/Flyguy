@@ -30,7 +30,7 @@ We leverage this exceptional advantages to implement an intelligent UAV, which c
 ### Gesture data collection and training
 * Collect pictures from himax camera for machine learning datasets in  ``` himax_tflm\Synopsys_WEI\User_Project\Camera```
 * Press B on keyboard and the pixel value of taken picture will show on the teraterm terminal
-* Save those printed value in logfiles, each class should be saved as  ```Python\Gesture_detection\teradata\xxx\xxx.txt```   xxx = /*classname*/
+* Save those printed value in logfiles, each class should be saved as  ```Python\Gesture_detection\teradata\xxx\xxx.txt```   xxx = *classname*
 * Start training in ```Python\Gesture_detection``` and burn the tensorflow_lite model in the himax board   
 * Recommend using Jupyter Notebook execute Gesture_himax_int8.IPYNB , or you can still directly execute Gesture_himax_int8.py   
 * Press reset button to inference on Himax WE-I Board and the predicted direction will show on teraterm terminal  
@@ -39,4 +39,3 @@ We leverage this exceptional advantages to implement an intelligent UAV, which c
 * Setup the radio connection
 * Run the code in ```Python\sendpic```
 * If Himax WE-Iborad detect a person's face, the person's picture will be send through UART and displayed on screen 
-aaaaa
