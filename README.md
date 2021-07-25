@@ -1,4 +1,4 @@
-# FLyguy - Programmable UAV   
+# Flyguy - Programmable UAV   
 ## Introduction  
 We hope to equip our UAV with the WE-I PLUS development board which includes a camera and AI processing capabilities. Our goal is to design an intelligent UAV system that can perform object detection and respond in real time. Using ARC iotdk board as the main control module for peripheral sensors and motors. Enabling UAV attitude or showing captured image of person on local PC monitor. 
 
