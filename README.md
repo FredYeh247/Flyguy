@@ -35,7 +35,7 @@ We leverage this exceptional advantages to implement an intelligent UAV, which c
 * Recommend using Jupyter Notebook execute Gesture_himax_int8.IPYNB , or you can still directly execute Gesture_himax_int8.py   
 * Press reset button to inference on Himax WE-I Board and the predicted direction will show on teraterm terminal  
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/predicted.PNG) 
-### Peson detection and take photo
+### Person detection and take photo
 * Setup the radio connection
 * Run the code  ```Python\Radio_link\radio_link.py``` to receive UART data
 * Modify Radio control com_port setting ```COM_PORT = 'COMxxx' ```
