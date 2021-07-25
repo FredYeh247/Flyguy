@@ -30,8 +30,9 @@ We leverage this exceptional advantages to implement an intelligent UAV, which c
 ### Gesture data collection and training
 * Collect pictures from himax camera for machine learning datasets in  ``` himax_tflm\Synopsys_WEI\User_Project\Camera```
 * Press B on keyboard and the pixel value of taken picture will show on the teraterm terminal
-* Save those printed value in terminal and save as  ```Python\Dataset\xxx.txt```
-* Start training in ```Python\training``` and burn the tensorflow_lite model in the himax board   
+* Save those printed value in logfiles, each class should be saved as  ```Python\Gesture_detection\teradata\xxx\xxx.txt```   xxx = /*classname*/
+* Start training in ```Python\Gesture_detection``` and burn the tensorflow_lite model in the himax board   
+* Recommend using Jupyter Notebook execute Gesture_himax_int8.IPYNB , or you can still directly execute Gesture_himax_int8.py   
 * Press reset button to inference on Himax WE-I Board and the predicted direction will show on teraterm terminal  
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/predicted.PNG) 
 ### Peson detection and take photo
