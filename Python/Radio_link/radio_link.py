@@ -9,7 +9,7 @@ import numpy as np
 import serial  
 from PIL import Image
 
-COM_PORT = 'COM18'   
+COM_PORT = 'COM18'    #Modify to your own com_port
 BAUD_RATES = 57600    
 ser = serial.Serial(COM_PORT, BAUD_RATES)   
 
