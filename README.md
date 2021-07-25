@@ -37,5 +37,6 @@ We leverage this exceptional advantages to implement an intelligent UAV, which c
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/predicted.PNG) 
 ### Peson detection and take photo
 * Setup the radio connection
-* Run the code in ```Python\sendpic```
+* Run the code  ```Python\Radio_link\radio_link.py``` to receive UART data
+* Modify your own Radio control com_port ``````
 * If Himax WE-Iborad detect a person's face, the person's picture will be send through UART and displayed on screen 
