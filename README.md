@@ -2,8 +2,7 @@
 ## Introduction  
 We hope to equip our UAV with the WE-I PLUS development board which includes a camera and AI processing capabilities. Our goal is to design an intelligent UAV system that can perform object detection and respond in real time. Using ARC iotdk board as the main control module for peripheral sensors and motors. Enabling UAV attitude or showing captured image of person on local PC monitor. 
 
-To enable common features such as hovering, landing, emergency shut down, we will use the ARC iotdk board as the main controller to control peripheral components.  
-The Himax camera on the WE-I development board can capture images of the UAV’s surroundings and feed them into a CNN model, enabling backend AI applications. 
+To enable common features such as hovering, landing, emergency shut down, we will use the ARC iotdk board as the main controller to control peripheral components. The Himax camera on the WE-I development board can capture images of the UAV’s surroundings and feed them into a CNN model, enabling backend AI applications. 
 
 We leverage this exceptional advantages to implement an intelligent UAV, which can be used to perform gestures classification and person detection. Once detect the gestures, the corresponding command is send to main controller and modify UAV attitude. Likewise, if the person is being detected, image of he/she will be transmitted to PC by radio links.   
 
