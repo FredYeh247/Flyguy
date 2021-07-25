@@ -40,3 +40,4 @@ We leverage this exceptional advantages to implement an intelligent UAV, which c
 * Run the code  ```Python\Radio_link\radio_link.py``` to receive UART data
 * Modify Radio control com_port setting ```COM_PORT = 'COMxxx' ```
 * If Himax WE-Iborad detect a person's face, the person's picture will be send through UART and displayed on screen 
+* [image](https://github.com/U3807/FLyguy/blob/main/Pics/gary.PNG) 
