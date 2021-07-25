@@ -39,4 +39,4 @@ We leverage this exceptional advantages to implement an intelligent UAV, which c
 * Setup the radio connection
 * Run the code in ```Python\sendpic```
 * If Himax WE-Iborad detect a person's face, the person's picture will be send through UART and displayed on screen 
-
+aaaaa
