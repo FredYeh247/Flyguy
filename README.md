@@ -10,7 +10,7 @@ We leverage this exceptional advantages to implement an intelligent UAV, which c
 * <https://drive.google.com/drive/folders/12FVz6vw5qo8o85kHHyj3vj9wvGWjw89_?fbclid=IwAR3bbGfDvNibZDc32LbP6FHP-WIRA9qwwHd0a5z1ahYwqFZcv2dVruvvwSE>
 ## System Architecture
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/1.png) 
-## Training flowchart
+## CNN Model Training Flowchart
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/train_cnn.png) 
 ## Required Hardware
 * Main controller : ARC iotdk board
