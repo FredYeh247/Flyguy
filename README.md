@@ -1,10 +1,11 @@
 # FLyguy - Programmable UAV   
 ## Introduction  
-We hope to equip our UAV with the WE-I PLUS development board which includes a camera and AI processing capabilities. Our goal is to design a smart UAV system that can perform object detection and respond in real time. Using ARC iotdk board as the main control module for peripheral sensors and motors. Enabling obstacle avoidance and autonomously track moving targets. 
+We hope to equip our UAV with the WE-I PLUS development board which includes a camera and AI processing capabilities. Our goal is to design an intelligent UAV system that can perform object detection and respond in real time. Using ARC iotdk board as the main control module for peripheral sensors and motors. Enabling UAV attitude or showing captured image of person on local PC monitor. 
 
 To enable common features such as hovering, landing, emergency shut down, we will use the ARC iotdk board as the main controller to control peripheral components.  
+The Himax camera on the WE-I development board can capture images of the UAV’s surroundings and feed them into a CNN model, enabling backend AI applications. 
 
-The Himax imaging camera on the WE-I development board can capture images of the UAV’s surroundings and feed them into a CNN model, enabling obstacle avoidance and autonomously track moving targets. 
+We leverage this exceptional advantages to implement an intelligent UAV, which can be used to perform gestures classification and person detection. Once detect the gestures, the corresponding command is send to main controller and modify UAV attitude. Likewise, if the person is being detected, image of he/she will be transmitted to PC by radio links.   
 
 ## Demo Video
 * <https://drive.google.com/drive/folders/12FVz6vw5qo8o85kHHyj3vj9wvGWjw89_?fbclid=IwAR3bbGfDvNibZDc32LbP6FHP-WIRA9qwwHd0a5z1ahYwqFZcv2dVruvvwSE>
